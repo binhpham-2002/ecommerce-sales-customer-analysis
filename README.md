@@ -4,11 +4,28 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
+## 🖥️ Interactive Dashboard
+
+> **[▶ Open Live Dashboard](powerbi/ecommerce_dashboard.html)** — Download and open in any browser. No installation needed.
+
+The dashboard covers 6 KPI cards, 8 interactive Plotly charts, and a full cohort retention heatmap — all in a single self-contained HTML file.
+
+| Section | Charts |
+|---|---|
+| Revenue & Sales | Monthly revenue + gross profit + order volume (dual-axis) |
+| Product Performance | Revenue share pie, gross profit bar, monthly product trend lines |
+| Traffic Channels | Sessions by channel, conversion rate comparison |
+| Device Analytics | Stacked area — desktop vs. mobile sessions over time |
+| Customer CLV | Lifetime value distribution histogram + Pareto concentration |
+| Cohort Retention | Monthly heatmap showing % of customers returning each month |
+
+---
 ## 📌 Project Overview
 
 This project delivers a **full-stack data analysis** of **Maven Fuzzy Factory**, a fictional e-commerce retailer selling plush toys. Starting from raw transactional data, this analysis covers traffic attribution, revenue performance, product profitability, customer lifetime value, and refund quality — mirroring the analytics workflow of a professional data analyst role.
@@ -158,7 +175,13 @@ Connect to any MySQL-compatible database, import the raw CSVs, and run queries f
 
 ---
 
-## 🖥️ Power BI Dashboard
+## 🖥️ Dashboards
+
+### Interactive HTML Dashboard (Plotly)
+`powerbi/ecommerce_dashboard.html` — a self-contained, browser-viewable dashboard with 8 interactive charts. Download and double-click to open — no server, no login needed.
+
+### Power BI Dashboard
+`powerbi/ecommerce_dashboard.pbix` *(add your own .pbix file here after building in Power BI Desktop)*
 
 The `powerbi/dashboard_data/` folder contains seven pre-aggregated CSVs ready to load into Power BI:
 
