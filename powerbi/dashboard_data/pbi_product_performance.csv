@@ -1,0 +1,95 @@
+product_id,product_name,year_month,units_sold,revenue,gross_profit
+1,The Original Mr. Fuzzy,2012-03,60,2999.4,1830.0
+1,The Original Mr. Fuzzy,2012-04,99,4949.01,3019.5
+1,The Original Mr. Fuzzy,2012-05,108,5398.92,3294.0
+1,The Original Mr. Fuzzy,2012-06,140,6998.6,4270.0
+1,The Original Mr. Fuzzy,2012-07,169,8448.31,5154.5
+1,The Original Mr. Fuzzy,2012-08,228,11397.72,6954.0
+1,The Original Mr. Fuzzy,2012-09,287,14347.13,8753.5
+1,The Original Mr. Fuzzy,2012-10,371,18546.29,11315.5
+1,The Original Mr. Fuzzy,2012-11,618,30893.82,18849.0
+1,The Original Mr. Fuzzy,2012-12,506,25294.94,15433.0
+1,The Original Mr. Fuzzy,2013-01,343,17146.57,10461.5
+1,The Original Mr. Fuzzy,2013-02,336,16796.64,10248.0
+1,The Original Mr. Fuzzy,2013-03,320,15996.8,9760.0
+1,The Original Mr. Fuzzy,2013-04,459,22945.41,13999.5
+1,The Original Mr. Fuzzy,2013-05,489,24445.11,14914.5
+1,The Original Mr. Fuzzy,2013-06,503,25144.97,15341.5
+1,The Original Mr. Fuzzy,2013-07,509,25444.91,15524.5
+1,The Original Mr. Fuzzy,2013-08,510,25494.9,15555.0
+1,The Original Mr. Fuzzy,2013-09,537,26844.63,16378.5
+1,The Original Mr. Fuzzy,2013-10,603,30143.97,18391.5
+1,The Original Mr. Fuzzy,2013-11,724,36192.76,22082.0
+1,The Original Mr. Fuzzy,2013-12,818,40891.82,24949.0
+1,The Original Mr. Fuzzy,2014-01,728,36392.72,22204.0
+1,The Original Mr. Fuzzy,2014-02,584,29194.16,17812.0
+1,The Original Mr. Fuzzy,2014-03,785,39242.15,23942.5
+1,The Original Mr. Fuzzy,2014-04,917,45840.83,27968.5
+1,The Original Mr. Fuzzy,2014-05,1030,51489.7,31415.0
+1,The Original Mr. Fuzzy,2014-06,893,44641.07,27236.5
+1,The Original Mr. Fuzzy,2014-07,961,48040.39,29310.5
+1,The Original Mr. Fuzzy,2014-08,958,47890.42,29219.0
+1,The Original Mr. Fuzzy,2014-09,1056,52789.44,32208.0
+1,The Original Mr. Fuzzy,2014-10,1173,58638.27,35776.5
+1,The Original Mr. Fuzzy,2014-11,1451,72535.49,44255.5
+1,The Original Mr. Fuzzy,2014-12,1584,79184.16,48312.0
+1,The Original Mr. Fuzzy,2015-01,1392,69586.08,42456.0
+1,The Original Mr. Fuzzy,2015-02,1113,55638.87,33946.5
+1,The Original Mr. Fuzzy,2015-03,864,43191.36,26352.0
+2,The Forever Love Bear,2013-01,47,2819.53,1762.5
+2,The Forever Love Bear,2013-02,162,9718.38,6075.0
+2,The Forever Love Bear,2013-03,65,3899.35,2437.5
+2,The Forever Love Bear,2013-04,94,5639.06,3525.0
+2,The Forever Love Bear,2013-05,82,4919.18,3075.0
+2,The Forever Love Bear,2013-06,90,5399.1,3375.0
+2,The Forever Love Bear,2013-07,95,5699.05,3562.5
+2,The Forever Love Bear,2013-08,98,5879.02,3675.0
+2,The Forever Love Bear,2013-09,98,5879.02,3675.0
+2,The Forever Love Bear,2013-10,135,8098.65,5062.5
+2,The Forever Love Bear,2013-11,174,10438.26,6525.0
+2,The Forever Love Bear,2013-12,183,10978.17,6862.5
+2,The Forever Love Bear,2014-01,183,10978.17,6862.5
+2,The Forever Love Bear,2014-02,351,21056.49,13162.5
+2,The Forever Love Bear,2014-03,193,11578.07,7237.5
+2,The Forever Love Bear,2014-04,214,12837.86,8025.0
+2,The Forever Love Bear,2014-05,246,14757.54,9225.0
+2,The Forever Love Bear,2014-06,245,14697.55,9187.5
+2,The Forever Love Bear,2014-07,244,14637.56,9150.0
+2,The Forever Love Bear,2014-08,237,14217.63,8887.5
+2,The Forever Love Bear,2014-09,251,15057.49,9412.5
+2,The Forever Love Bear,2014-10,284,17037.16,10650.0
+2,The Forever Love Bear,2014-11,377,22616.23,14137.5
+2,The Forever Love Bear,2014-12,387,23216.13,14512.5
+2,The Forever Love Bear,2015-01,394,23636.06,14775.0
+2,The Forever Love Bear,2015-02,644,38633.56,24150.0
+2,The Forever Love Bear,2015-03,223,13377.77,8362.5
+3,The Birthday Sugar Panda,2013-12,139,6392.61,4378.5
+3,The Birthday Sugar Panda,2014-01,200,9198.0,6300.0
+3,The Birthday Sugar Panda,2014-02,211,9703.89,6646.5
+3,The Birthday Sugar Panda,2014-03,244,11221.56,7686.0
+3,The Birthday Sugar Panda,2014-04,267,12279.33,8410.5
+3,The Birthday Sugar Panda,2014-05,299,13751.01,9418.5
+3,The Birthday Sugar Panda,2014-06,288,13245.12,9072.0
+3,The Birthday Sugar Panda,2014-07,276,12693.24,8694.0
+3,The Birthday Sugar Panda,2014-08,294,13521.06,9261.0
+3,The Birthday Sugar Panda,2014-09,317,14578.83,9985.5
+3,The Birthday Sugar Panda,2014-10,368,16924.32,11592.0
+3,The Birthday Sugar Panda,2014-11,425,19545.75,13387.5
+3,The Birthday Sugar Panda,2014-12,539,24788.61,16978.5
+3,The Birthday Sugar Panda,2015-01,450,20695.5,14175.0
+3,The Birthday Sugar Panda,2015-02,405,18625.95,12757.5
+3,The Birthday Sugar Panda,2015-03,263,12095.37,8284.5
+4,The Hudson River Mini bear,2014-02,202,6057.98,4141.0
+4,The Hudson River Mini bear,2014-03,205,6147.95,4202.5
+4,The Hudson River Mini bear,2014-04,259,7767.41,5309.5
+4,The Hudson River Mini bear,2014-05,298,8937.02,6109.0
+4,The Hudson River Mini bear,2014-06,249,7467.51,5104.5
+4,The Hudson River Mini bear,2014-07,264,7917.36,5412.0
+4,The Hudson River Mini bear,2014-08,303,9086.97,6211.5
+4,The Hudson River Mini bear,2014-09,327,9806.73,6703.5
+4,The Hudson River Mini bear,2014-10,377,11306.23,7728.5
+4,The Hudson River Mini bear,2014-11,449,13465.51,9204.5
+4,The Hudson River Mini bear,2014-12,588,17634.12,12054.0
+4,The Hudson River Mini bear,2015-01,610,18293.9,12505.0
+4,The Hudson River Mini bear,2015-02,544,16314.56,11152.0
+4,The Hudson River Mini bear,2015-03,343,10286.57,7031.5

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (keep raw, ignore large processed files optionally)
+# data/processed/cleaned_website_pageviews.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Power BI
+*.pbix
+
+# Logs
+*.log
+data/raw/website_pageviews.csv
+data/processed/cleaned_website_pageviews.csv

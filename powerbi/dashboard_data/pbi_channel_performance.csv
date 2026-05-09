@@ -1,0 +1,8 @@
+utm_source,utm_campaign,orders,revenue,total_sessions,cvr_pct
+bsearch,brand,701,43109.02,7914,8.86
+bsearch,nonbrand,3818,225563.48,54909,6.95
+direct,none,6118,371433.03,83328,7.34
+gsearch,brand,2511,151730.68,33329,7.53
+gsearch,nonbrand,18822,1124414.21,282706,6.66
+socialbook,desktop_targeted,288,18516.1,5590,5.15
+socialbook,pilot,55,3743.23,5095,1.08
